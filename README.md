@@ -1,1 +1,3 @@
-# N8Dev-storytime_Archive
+# N8Dev storytime Archive
+
+The archive of stories from the #storytime channel
